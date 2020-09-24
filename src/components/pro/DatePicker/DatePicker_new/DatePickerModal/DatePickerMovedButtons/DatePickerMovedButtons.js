@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBBtn, MDBIcon } from 'mdbreact';
+import { MDBBtn, MDBIcon } from 'bxUiComponentsBase';
 import moment from 'moment';
 import classNames from 'classnames';
 import { takeAcutalDate } from '../../../../../utils';

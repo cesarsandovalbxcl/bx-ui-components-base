@@ -5,7 +5,7 @@ import { Manager, Popper, Reference } from 'react-popper';
 
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { MDBInput, MDBBtn, MDBIcon } from 'mdbreact';
+import { MDBInput, MDBBtn, MDBIcon } from 'bxUiComponentsBase';
 import './material-selectV5.css';
 
 import SelectOptionsV5 from './SelectOptionsv5/SelectOptionsv5';

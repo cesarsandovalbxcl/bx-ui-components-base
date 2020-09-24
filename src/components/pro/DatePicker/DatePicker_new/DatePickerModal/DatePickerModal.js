@@ -1,4 +1,4 @@
-import { MDBBtn, MDBIcon } from 'mdbreact';
+import { MDBBtn, MDBIcon } from 'bxUiComponentsBase';
 import moment from 'moment';
 import React, { Component, createRef } from 'react';
 import { makeFirstLetterUpper, makeRandomID, takeThemeColor, takeAcutalDate } from '../../../../utils';

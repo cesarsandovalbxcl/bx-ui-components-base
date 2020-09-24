@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { MDBSelect } from 'mdbreact';
+import { MDBSelect } from 'bxUiComponentsBase';
 import DataTableTable from './DataTableTable';
 import DataTableTableScroll from './DataTableTableScroll';
 import DataTableEntries from './DataTableEntries';

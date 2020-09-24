@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBIframe } from 'mdbreact';
+import { MDBIframe } from 'bxUiComponentsBase';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 

@@ -16,7 +16,7 @@ import {
   MDBView,
   MDBContainer,
   MDBIcon
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import './CallToActionIntro.css';
 
 class CallToActionIntro extends React.Component {

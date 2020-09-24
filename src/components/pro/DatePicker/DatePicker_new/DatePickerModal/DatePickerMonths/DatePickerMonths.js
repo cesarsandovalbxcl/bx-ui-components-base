@@ -1,6 +1,6 @@
 import React from 'react';
 import moment from 'moment';
-import { MDBBtn } from 'mdbreact';
+import { MDBBtn } from 'bxUiComponentsBase';
 import { takeThemeColor, takeAcutalDate } from '../../../../../utils';
 import PropTypes from 'prop-types';
 

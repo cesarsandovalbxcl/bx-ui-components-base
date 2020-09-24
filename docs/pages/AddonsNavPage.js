@@ -7,7 +7,7 @@ import {
   MDBJumbotron,
   MDBIcon,
   MDBAnimation
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import MenuLink from '../components/menuLink';
 
 const AddonsNavPage = () => {

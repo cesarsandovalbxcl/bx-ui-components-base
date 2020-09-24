@@ -13,7 +13,7 @@ import {
   MDBCardText,
   MDBAnimation,
   MDBNavLink
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import './HomePage.css';
 
 class HomePage extends React.Component {
@@ -35,7 +35,7 @@ class HomePage extends React.Component {
                     <strong className='font-weight-bold'>
                       <img
                         src='https://mdbootstrap.com/img/Marketing/other/logo/logo-mdb-react-small.png'
-                        alt='mdbreact-logo'
+                        alt='bxUiComponentsBase-logo'
                         className='pr-2'
                       />
                       Demo App

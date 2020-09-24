@@ -13,7 +13,7 @@ import {
   MDBRow,
   MDBCol,
   MDBInput
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

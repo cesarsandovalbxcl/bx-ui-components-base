@@ -9,7 +9,7 @@ import {
   MDBPageItem,
   MDBPagination,
   MDBPageNav
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

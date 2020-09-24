@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBIcon, MDBNavLink } from 'mdbreact';
+import { MDBIcon, MDBNavLink } from 'bxUiComponentsBase';
 
 const NavLink = ({ to, title }) => {
   return (

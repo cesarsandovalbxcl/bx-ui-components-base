@@ -19,9 +19,9 @@ All fully responsive. All compatible with different browsers.
 </p>
 
 <p align="center">
-  <a href="https://npmcharts.com/compare/mdbreact?minimal=true"><img src="https://img.shields.io/npm/dm/mdbreact.svg" alt="Downloads"></a>
+  <a href="https://npmcharts.com/compare/bxUiComponentsBase?minimal=true"><img src="https://img.shields.io/npm/dm/bxUiComponentsBase.svg" alt="Downloads"></a>
   <a href="https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/mdbreact.svg" alt="npm"></a>
+  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/bxUiComponentsBase.svg" alt="npm"></a>
   <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/react/&hashtags=react,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
 </p>
 
@@ -58,7 +58,7 @@ All fully responsive. All compatible with different browsers.
 
 # Version:
 
-- MDBReact 4.27.0
+- bxUiComponentsBase 4.27.0
 - React 16.12.0
 
 # Quick start
@@ -88,13 +88,13 @@ Now you can navigate to [our documentation](http://mdbootstrap.com/docs/react/),
 
 - create new project `create-react-app myApp`
 - `cd myApp`
-- `npm install --save mdbreact`
+- `npm install --save bxUiComponentsBase`
 - Import style files into the src/index.js before the App.js file:
 
 ```javascript
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap-css-only/css/bootstrap.min.css';
-import 'mdbreact/dist/css/mdb.css';
+import 'bxUiComponentsBase/dist/css/mdb.css';
 ```
 
 ### Run server

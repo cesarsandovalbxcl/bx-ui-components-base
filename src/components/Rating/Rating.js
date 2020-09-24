@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import classNames from 'classnames';
-import { Fa, MDBBtn, MDBPopoverBody, MDBPopoverHeader, MDBTooltip } from 'mdbreact';
+import { Fa, MDBBtn, MDBPopoverBody, MDBPopoverHeader, MDBTooltip } from 'bxUiComponentsBase';
 import PropTypes from 'prop-types';
 
 const Rating = props => {

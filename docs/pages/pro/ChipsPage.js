@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { MDBContainer, MDBChip, MDBChipsInput } from 'mdbreact';
+import { MDBContainer, MDBChip, MDBChipsInput } from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

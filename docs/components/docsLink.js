@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBRow, MDBIcon } from 'mdbreact';
+import { MDBRow, MDBIcon } from 'bxUiComponentsBase';
 
 const DocsLink = ({ title, href }) => {
   return (
@@ -11,7 +11,7 @@ const DocsLink = ({ title, href }) => {
         <a
           className='border white-text px-2 border-light rounded ml-2 blue-gradient'
           target='_blank'
-          href={`${href}/?utm_source=DemoApp&utm_medium=MDBReactPro`}
+          href={`${href}/`}
           rel='noopener noreferrer'
         >
           <MDBIcon icon='graduation-cap' className='mr-2' />

@@ -8,7 +8,7 @@ import {
   MDBNav,
   MDBNavItem,
   MDBNavLink
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

@@ -15,7 +15,7 @@ import {
   MDBBtn,
   MDBView,
   MDBContainer
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import './MinimalisticIntro.css';
 
 class MinimalisticIntro extends React.Component {

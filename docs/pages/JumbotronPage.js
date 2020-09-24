@@ -12,7 +12,7 @@ import {
   MDBCardImage,
   MDBCardBody,
   MDBCardText
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

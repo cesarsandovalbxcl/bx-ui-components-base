@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import { MDBInput, MDBIcon } from 'mdbreact';
+import { MDBInput, MDBIcon } from 'bxUiComponentsBase';
 import classNames from 'classnames';
 import './Autocomplete.css';
 import { partHighlight, makeToStringAndLower, scrollToElement } from './Utils/index';

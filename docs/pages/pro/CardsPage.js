@@ -13,7 +13,7 @@ import {
   MDBRotatingCard,
   MDBIcon,
   MDBBtn
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

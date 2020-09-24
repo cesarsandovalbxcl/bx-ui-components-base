@@ -15,7 +15,7 @@ import {
   MDBBtn,
   MDBView,
   MDBContainer
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import './ParallaxIntro.css';
 
 class ParallaxIntro extends React.Component {

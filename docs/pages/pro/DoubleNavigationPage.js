@@ -16,7 +16,7 @@ import {
   MDBSideNavNav,
   MDBSideNav,
   MDBContainer
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 
 class DoubleNavigationPage extends Component {
   state = {

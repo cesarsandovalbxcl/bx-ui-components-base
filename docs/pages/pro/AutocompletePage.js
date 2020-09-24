@@ -14,7 +14,7 @@ import {
   MDBIcon,
   MDBAutoV5,
   MDBTypography
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 
@@ -446,7 +446,7 @@ class AutocompletePage extends Component {
 
         <SectionContainer header='New example v5'>
           <MDBTypography note noteColor='info' noteTitle='Information: '>
-            This is version of Autocomplete what will be fully available in the MDBReact version 5 and it will replace
+            This is version of Autocomplete what will be fully available in the bxUiComponentsBase version 5 and it will replace
             current version of Autocomplete.
           </MDBTypography>
 

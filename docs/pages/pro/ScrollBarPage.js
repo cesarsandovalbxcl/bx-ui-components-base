@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBContainer, MDBScrollbar } from 'mdbreact';
+import { MDBContainer, MDBScrollbar } from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 import './ScrollbarPage.css';

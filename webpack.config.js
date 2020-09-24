@@ -16,7 +16,7 @@ const config = {
   },
   resolve: {
     alias: {
-      mdbreact: path.resolve('./src/index')
+      bxUiComponentsBase: path.resolve('./src/index')
     }
   },
   module: {

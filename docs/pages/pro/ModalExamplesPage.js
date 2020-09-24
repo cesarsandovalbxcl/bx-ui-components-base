@@ -21,7 +21,7 @@ import {
   MDBCarouselInner,
   MDBCarouselItem,
   MDBInput
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import '../ModalExamplesPage.css';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';

@@ -7,7 +7,7 @@ import DataTableEntries from './DataTableEntries';
 import DataTableSearch from './DataTableSearch';
 import DataTableInfo from './DataTableInfo';
 import DataTablePagination from './DataTablePagination';
-import { MDBSelect, MDBInput } from 'mdbreact';
+import { MDBSelect, MDBInput } from 'bxUiComponentsBase';
 
 // PRO-START
 import ExportToCsvBtn from '../../pro/DataTable/ExportToCSV';

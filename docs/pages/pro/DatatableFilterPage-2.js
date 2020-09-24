@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBDataTableV5, MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody } from 'mdbreact';
+import { MDBDataTableV5, MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody } from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

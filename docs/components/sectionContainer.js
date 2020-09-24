@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBContainer } from 'mdbreact';
+import { MDBContainer } from 'bxUiComponentsBase';
 import classNames from 'classnames';
 
 const SectionContainer = ({

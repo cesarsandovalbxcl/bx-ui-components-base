@@ -9,7 +9,7 @@ import {
   MDBRow,
   MDBCol,
   MDBSelectV5
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

@@ -10,7 +10,7 @@ import {
   MDBDropdownItem,
   MDBRow,
   MDBCol
-} from 'mdbreact';
+} from 'bxUiComponentsBase';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 
