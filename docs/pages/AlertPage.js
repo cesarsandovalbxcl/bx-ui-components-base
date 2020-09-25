@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBContainer, MDBAlert } from 'bxUiComponentsBase';
+import { MDBContainer, MDBAlert } from 'mdbreact';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

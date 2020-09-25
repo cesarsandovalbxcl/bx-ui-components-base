@@ -10,7 +10,7 @@ import {
   MDBCardBody,
   MDBModalFooter,
   MDBCardHeader
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 import './Forms.css';

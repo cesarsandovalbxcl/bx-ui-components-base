@@ -15,7 +15,7 @@ import {
   MDBNav,
   MDBNavItem,
   MDBNavLink
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import './ModalFormPage.css';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';

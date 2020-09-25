@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBContainer } from 'bxUiComponentsBase';
+import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBContainer } from 'mdbreact';
 import DocsLink from '../components/docsLink';
 
 const CarouselPage = () => {

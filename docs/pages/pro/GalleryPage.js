@@ -5,7 +5,7 @@ import {
   MDBGalleryList,
   MDBBox,
   MDBMask
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

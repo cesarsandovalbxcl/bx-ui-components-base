@@ -20,7 +20,7 @@ import {
   MDBInput,
   MDBFormInline,
   MDBAnimation
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import './ClassicFormPage.css';
 
 class ClassicFormPage extends React.Component {

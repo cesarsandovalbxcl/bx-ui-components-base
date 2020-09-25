@@ -15,7 +15,7 @@ import {
   MDBBtn,
   MDBView,
   MDBContainer
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import './VideoBackgroundPage.css';
 
 class VideoBackgroundPage extends React.Component {

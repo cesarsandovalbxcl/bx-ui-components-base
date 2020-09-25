@@ -7,7 +7,7 @@ import {
   MDBCardHeader,
   MDBCardBody,
   MDBTableEditable
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 
 const columns = ['Person Name', 'Age', 'Company Name', 'Country', 'City'];

@@ -1,5 +1,5 @@
 import React from 'react';
-import { toast, ToastContainer, MDBContainer } from 'bxUiComponentsBase';
+import { toast, ToastContainer, MDBContainer } from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

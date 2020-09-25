@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBContainer, MDBIframe } from 'bxUiComponentsBase';
+import { MDBContainer, MDBIframe } from 'mdbreact';
 import DocsLink from '../components/docsLink';
 
 const IframePage = () => {

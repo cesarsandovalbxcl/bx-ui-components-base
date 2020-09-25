@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { MDBInput } from 'bxUiComponentsBase';
+import { MDBInput } from 'mdbreact';
 
 const DataTableInput = ({ value, onChange, label, barReverse, materialSearch }) => (
   <div

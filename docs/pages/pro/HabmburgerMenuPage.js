@@ -11,7 +11,7 @@ import {
   MDBContainer,
   MDBIcon,
   MDBHamburgerToggler
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

@@ -12,7 +12,7 @@ import {
   MDBSideNavNavV5,
   MDBSideNavV5,
   MDBSideNavLinkV5
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

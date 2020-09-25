@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBInput } from 'bxUiComponentsBase';
+import { MDBInput } from 'mdbreact';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 

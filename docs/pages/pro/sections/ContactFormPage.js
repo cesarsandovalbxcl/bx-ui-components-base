@@ -18,7 +18,7 @@ import {
   MDBCard,
   MDBCardBody,
   MDBInput
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import './ContactFormPage.css';
 
 class ContactFormPage extends React.Component {

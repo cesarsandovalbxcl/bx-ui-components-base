@@ -14,7 +14,7 @@ import {
   MDBSelect,
   MDBInputGroup,
   MDBIcon
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 

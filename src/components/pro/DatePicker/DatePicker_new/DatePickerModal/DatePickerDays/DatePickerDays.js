@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBBtn } from 'bxUiComponentsBase';
+import { MDBBtn } from 'mdbreact';
 import moment from 'moment';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';

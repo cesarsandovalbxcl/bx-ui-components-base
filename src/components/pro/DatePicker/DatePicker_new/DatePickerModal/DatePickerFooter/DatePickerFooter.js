@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBBtn } from 'bxUiComponentsBase';
+import { MDBBtn } from 'mdbreact';
 import classNames from 'classnames';
 import { takeThemeColor } from '../../../../../utils';
 import PropTypes from 'prop-types';

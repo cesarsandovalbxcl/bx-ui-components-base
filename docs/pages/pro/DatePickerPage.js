@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { MDBDatePicker, MDBContainer, MDBBtn, MDBDatePickerV5 } from 'bxUiComponentsBase';
+import { MDBDatePicker, MDBContainer, MDBBtn, MDBDatePickerV5 } from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 import moment from 'moment';

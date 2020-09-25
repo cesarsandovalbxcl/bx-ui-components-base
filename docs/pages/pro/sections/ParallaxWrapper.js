@@ -1,7 +1,7 @@
 // import React, { Component } from 'react';
 // import PropTypes from 'prop-types';
 // import { jarallax, jarallaxVideo, jarallaxElement } from 'jarallax';
-// import { MDBParallax } from 'bxUiComponentsBase';
+// import { MDBParallax } from 'mdbreact';
 
 // class MDBParallaxWrapper extends Component {
 //   jarallax = React.createRef();

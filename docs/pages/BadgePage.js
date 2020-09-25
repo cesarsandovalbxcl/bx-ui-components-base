@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBBadge, MDBContainer, MDBIcon } from 'bxUiComponentsBase';
+import { MDBBadge, MDBContainer, MDBIcon } from 'mdbreact';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

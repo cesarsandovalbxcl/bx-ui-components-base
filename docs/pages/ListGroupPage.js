@@ -5,7 +5,7 @@ import {
   MDBRow,
   MDBBadge,
   MDBContainer
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

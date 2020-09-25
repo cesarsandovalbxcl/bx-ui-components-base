@@ -16,7 +16,7 @@ import {
   MDBContainer,
   MDBFormInline,
   MDBAnimation
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import './AppPage.css';
 
 class AppPage extends React.Component {

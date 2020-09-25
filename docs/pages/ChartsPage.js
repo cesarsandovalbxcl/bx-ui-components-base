@@ -11,7 +11,7 @@ import {
   Scatter,
   Chart
 } from 'react-chartjs-2';
-import { MDBContainer } from 'bxUiComponentsBase';
+import { MDBContainer } from 'mdbreact';
 import DocsLink from '../components/docsLink';
 import SectionContainer from '../components/sectionContainer';
 

@@ -12,7 +12,7 @@ import {
   MDBIcon,
   MDBBtn,
   MDBScrollbar
-} from 'bxUiComponentsBase';
+} from 'mdbreact';
 import DocsLink from '../../components/docsLink';
 import SectionContainer from '../../components/sectionContainer';
 import './ChatPage.css';
