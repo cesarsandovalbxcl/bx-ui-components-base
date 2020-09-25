@@ -3,8 +3,8 @@
   "version": "4.27.1",
   "author": "MDBootstrap",
   "repository": "https://git.mdbootstrap.com/mdb/react/re-pro",
-  "main": "dist/bx-ui-components-base.js",
-  "module": "dist/bx-ui-components-base.esm.js",
+  "main": "dist/bxUiComponentsBase.js",
+  "module": "dist/bxUiComponentsBase.esm.js",
   "license": "SEE LICENSE IN <license.pdf>",
   "types": "dist/types/index.d.ts",
   "files": [
