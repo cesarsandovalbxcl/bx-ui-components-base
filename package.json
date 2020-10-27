@@ -1,8 +1,8 @@
 {
-  "name": "mdbreact",
+  "name": "@blue-express/base-ui",
   "version": "4.27.0",
   "author": "MDBootstrap",
-  "repository": "https://git.mdbootstrap.com/mdb/react/re-pro",
+  "repository": "https://github.com/Blue-Express/bx-ui-components-base.git",
   "main": "dist/mdbreact.js",
   "module": "dist/mdbreact.esm.js",
   "license": "SEE LICENSE IN <license.pdf>",
