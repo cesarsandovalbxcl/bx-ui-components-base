@@ -1,6 +1,6 @@
 {
   "name": "@blue-express/base-ui",
-  "version": "4.27.0",
+  "version": "4.27.1",
   "author": "MDBootstrap",
   "repository": "https://github.com/Blue-Express/bx-ui-components-base.git",
   "main": "dist/mdbreact.js",
